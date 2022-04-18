@@ -1,0 +1,14 @@
+SpringCloud
+1.版本2.0或以上
+2.SpringBoot版本2.0以上
+3.服务治理（客户端嵌入式代理:Consul）
+4.服务网关（智能路由、访问过滤zuul）
+5.容错管理（熔断Hystrix）
+6.负载均衡（Ribbon）
+7.服务调度:Feign（基于Ribbon和Hystrix的声明式服务调用）
+
+其他组件：springcloud task, springcloud stream
+
+监控：日志监控，调用链监控，报警
+
+注册、异步申请证书、回调、查询
