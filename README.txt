@@ -17,5 +17,7 @@ Files are organized by module, for example in core/:
 * `core/lucene-core-XX.jar`:
   The compiled core Lucene library.
 
+To review the documentation, read the main documentation page, located at:
+`docs/index.html`
 
 To build Lucene or its documentation for a source distribution, see BUILD.txt
